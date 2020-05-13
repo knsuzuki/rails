@@ -320,7 +320,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    minitest-retry (0.1.9)
+    minitest-retry (0.2.0)
       minitest (>= 5.0)
     minitest-server (1.0.6)
       minitest (~> 5.0)
