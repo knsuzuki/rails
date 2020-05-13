@@ -406,7 +406,7 @@ GEM
       resque (>= 1.26)
       rufus-scheduler (~> 3.2)
     retriable (3.1.2)
-    rexml (3.2.3)
+    rexml (3.2.4)
     rubocop (0.80.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
